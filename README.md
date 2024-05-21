@@ -11,9 +11,6 @@
   <tr>
     <td colspan="2">
       <p align="center">
-        <strong align="center">⚡ Let's connect and collaborate</strong> 🤝
-      </p>
-      <p align="center">
         📧 For any professional inquiries or collaborations, feel reach out to me at:<br>
         <a href="mailto:David@Refoua.me">David@Refoua.me</a><br>
         ℹ️ You can find more about me on my profile at:<br>
