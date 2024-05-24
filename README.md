@@ -3,8 +3,9 @@
     <td colspan="2">
       <h3 align="center">Hey there, I'm David Refoua (DRSDavidSoft) 👋</h3>
       <p align="center">
-        I'm a versatile Full Stack Developer with a passion for open-source projects, software engineering, and design. 💻<br>
+        I'm a versatile full stack developer with a passion for open-source projects, software engineering, and design. 💻<br>
         In addition to my core software development skills, I'm also an electronics engineering enthusiast, constantly exploring new and innovative ways to combine hardware and software solutions.<br>
+        <a href="https://t.me/DRSDavidSoft"><img src="https://img.shields.io/badge/message-%40DRSDavidSoft?style=for-the-badge&logo=telegram&color=black" alt="Ask me anything"></a><br>
       </p>
     </td>
   </tr>
@@ -53,7 +54,6 @@
         <a href="https://ir.linkedin.com/in/drsdavidsoft"><img src="https://img.shields.io/badge/LinkedIn-David%20Refoua-0984e3?style=flat-square&logo=LinkedIn" alt="LinkedIn"></a>
         <a href="https://www.refoua.me/"><img src="https://img.shields.io/badge/Website-www.Refoua.me-fdcb6e?style=flat-square" alt="Website"></a>
         <img src="https://vbr.nathanchung.dev/badge?page_id=DRSDavidSoft.visitor-badge&style=flat-square&logo=Github&color=00b894" alt="Visitors"><br>
-        <a href="https://t.me/DRSDavidSoft"><img src="https://img.shields.io/badge/message-%40DRSDavidSoft?style=for-the-badge&logo=telegram&color=black" alt="Ask me anything"></a><br>
         <a href="https://stackexchange.com/users/791357" align="center">
           <picture width="208" height="58" align="center">
             <source
@@ -74,7 +74,7 @@
 
 <details align="center">
   <summary>
-    Click <strong>here</strong> to expand this section
+    Click <strong>here</strong> to expand about me section
   </summary>
   <ul>
     <li> I'm a versatile software engineer and electronics wiz, always eager to tackle complex challenges and deliver innovative solutions. 🧑‍💻<br>
