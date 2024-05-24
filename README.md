@@ -23,6 +23,17 @@
       <p align="center">
         <picture height="195" align="center">
           <source
+            srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DRSDavidSoft&layout=compact&theme=github_dark&count_private=true"
+            media="(prefers-color-scheme: dark)"
+          />
+          <source
+            srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DRSDavidSoft&layout=compact&count_private=true"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+          />
+          <img height="195" align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DRSDavidSoft&layout=compact&count_private=true" title="DRSDavidSoft's github stats" />
+        </picture>
+        <picture height="195" align="center">
+          <source
             srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DRSDavidSoft&show_icons=true&theme=github_dark"
             media="(prefers-color-scheme: dark)"
           />
