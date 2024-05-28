@@ -3,9 +3,9 @@
     <td colspan="2">
       <h3 align="center">Hey there, I'm David Refoua (DRSDavidSoft) 👋</h3>
       <p align="center">
+        <a href="https://t.me/DRSDavidSoft"><img src="https://img.shields.io/badge/message-%40DRSDavidSoft?style=for-the-badge&logo=telegram&color=black" alt="Ask me anything"></a><br>
         I'm a versatile full stack developer with a passion for open-source projects, software engineering, and design. 💻<br>
         In addition to my core software development skills, I'm also an electronics engineering enthusiast, constantly exploring new and innovative ways to combine hardware and software solutions.<br>
-        <a href="https://t.me/DRSDavidSoft"><img src="https://img.shields.io/badge/message-%40DRSDavidSoft?style=for-the-badge&logo=telegram&color=black" alt="Ask me anything"></a><br>
       </p>
     </td>
   </tr>
