@@ -3,19 +3,19 @@
     <td colspan="2">
       <h3 align="center">Hey there, I'm David Refoua (DRSDavidSoft) 👋</h3>
       <p align="center">
-        <a href="https://t.me/DRSDavidSoft"><img src="https://img.shields.io/badge/message-%40DRSDavidSoft?style=for-the-badge&logo=telegram&color=black" alt="Ask me anything"></a><br>
-        I'm a versatile full stack developer with a passion for open-source projects, software engineering, and design. 💻<br>
-        In addition to my core software development skills, I'm also an electronics engineering enthusiast, constantly exploring new and innovative ways to combine hardware and software solutions.<br>
+        A versatile full stack developer with a passion for open-source projects, software engineering, and design 💻<br>
+        An electronics engineering enthusiast, consistently exploring innovative ways to blend hardware and software solutions ⚡<br><br>
+        <a href="https://t.me/DRSDavidSoft"><img src="https://img.shields.io/badge/message-%40DRSDavidSoft?style=for-the-badge&logo=telegram&color=black" alt="Ask me anything"></a>
       </p>
     </td>
   </tr>
   <tr>
     <td colspan="2">
       <p align="center">
-        For any professional inquiries or collaborations, feel reach out to me at:<br>
+        For professional inquiries or collaborations, reach out to me at:<br>
         📧 <a href="mailto:David@Refoua.me">David@Refoua.me</a><br>
-        You can find more about me on my profile at:<br>
-        ℹ️ <a rel="me" href="https://blog.refoua.me/profile">blog.refoua.me/profile</a>.<br>
+        Find more about me on my profile at:<br>
+        👤 <a rel="me" href="https://blog.refoua.me/profile">blog.refoua.me/profile</a>.<br>
       </p>
     </td>
   </tr>
@@ -72,17 +72,33 @@
   </tr>
 </table>
 
+<hr>
+
 <details align="center">
   <summary>
     Click <strong>here</strong> to expand about me section
   </summary>
+  <p>
+    💡 Driven by curiosity and a commitment to deliver innovative solutions.<br>
+    🧑‍💻 Always open to exciting projects where a versatile tech enthusiast can make an impact.<br>
+    🚀 Focused on building robust, scalable applications with continuous improvement.<br>
+    📚 Passionate about cutting-edge technologies and problem-solving, thriving in cross-functional teams to tackle complex challenges.<br>
+    🧠 Technical expertise meets creative thinking, delivering exceptional results.<br>
+    🤝 A team player eager to learn from peers and share knowledge. A true believer in open-source projects and collaboration.<br>
+    🧑‍💻 Expertise spans OS design, application development, Linux kernel tinkering, embedded and IoT systems, microcontroller programming, custom PCB design, and more.<br>
+    🌍 Web development skills are strong but take a backseat to pushing boundaries in the world of technology and design.
+  </p>
+  <hr>
   <ul>
-    <li> I'm a versatile software engineer and electronics wiz, always eager to tackle complex challenges and deliver innovative solutions. 🧑‍💻<br>
-    <li> While I'm well-versed in web development, my true passions lie in the realms of tinkering with the Linux kernel, embedded systems, IoT, and cutting-edge technologies. I thrive on the intricacies of software architecture, microcontroller programming, open-source development, and custom PCB fabrication. From designing smart home devices to crafting industrial automation solutions, I'm constantly exploring new frontiers in the world of electronics.
-    <li> In the software domain, I've honed my skills in building robust and scalable applications. I'm a quick learner and love working with the latest technologies, whether it's optimizing database architectures, implementing secure authentication systems, or streamlining DevOps workflows. I'm always striving to expand my knowledge and stay ahead of the curve.
-    <li> What really sets me apart is my passion for collaboration and problem-solving. I enjoy working closely with cross-functional teams to tackle complex challenges, combining my technical expertise with creative thinking to deliver exceptional results. I'm a team player at heart, always eager to learn from my peers and share my knowledge.
-    <li> While I may not have all the answers, I'm driven by a relentless curiosity and a commitment to continuous improvement. If you're tackling an exciting project and could use an adaptable tech enthusiast on your team, I'd be honored to discuss how I can contribute to your success.
+    <li> Passionate about problem-solving and the design of software architecture, especially for diverse needs. I thrive on mastering new technologies and tackling intricate design challenges.</li>
+    <li> With over <strong>10 years</strong> of experience, I have an extensive background in back-end software development across various technologies, along with implementing functional front-end applications.</li>
+    <li> My expertise includes software architecture, embedded development, and more. Whether it's designing smart home devices or crafting industrial automation solutions.</li>
+    <li> From designing database architectures to implementing secure authentication systems and streamlining DevOps workflows, I excel in creating robust, scalable solutions.</li>
+    <li> I've also led teams and directed projects, combining technical leadership with hands-on development.</li>
   </ul>
+  <p>
+    If you're tackling an exciting project and could use an adaptable tech enthusiast on your team, I'm your guy. Let's discuss how I can contribute to the success of your project.
+  </p>
 </details>
 
 <br/>
